@@ -1,1 +1,16 @@
-Un gusto hacer este trabajo, tuve que pensar muuuucho, ya que habia muchas cosas muy nuevas para mi, seguire practicando los codigos y poder entenderlos mas, ya que eso se me dificulta y pues nada mas que eso 
+Amigo Secreto
+
+Una aplicación web sencilla para realizar un sorteo de "Amigo Secreto".  
+Permite agregar nombres, listarlos y seleccionar uno de manera aleatoria.
+
+## Funcionalidades
+- **Agregar nombres** mediante un campo de texto y un botón **"Añadir"**.
+- **Validación**: no permite agregar nombres vacíos.
+- **Lista visible** con todos los amigos añadidos.
+- **Sorteo aleatorio** al presionar el botón **"Sortear Amigo"**.
+- **Atajo de teclado**: también puedes presionar **Enter** para añadir un nombre.
+
+##  Vista previa
+![Vista previa de Amigo Secreto](https://github.com/dallasacuna-123/amigo-secreto)
+
+##  Estructura del proyecto
