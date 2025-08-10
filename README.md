@@ -1,4 +1,4 @@
-Amigo Secreto
+# Amigo Secreto
 
 Una aplicación web sencilla para realizar un sorteo de "Amigo Secreto".  
 Permite agregar nombres, listarlos y seleccionar uno de manera aleatoria.
