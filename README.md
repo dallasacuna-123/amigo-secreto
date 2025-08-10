@@ -1,0 +1,1 @@
+Un gusto hacer este trabajo, tuve que pensar muuuucho, ya que habia muchas cosas muy nuevas para mi, seguire practicando los codigos y poder entenderlos mas, ya que eso se me dificulta y pues nada mas que eso 
