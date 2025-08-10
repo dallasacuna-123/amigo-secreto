@@ -10,7 +10,3 @@ Permite agregar nombres, listarlos y seleccionar uno de manera aleatoria.
 - **Sorteo aleatorio** al presionar el botón **"Sortear Amigo"**.
 - **Atajo de teclado**: también puedes presionar **Enter** para añadir un nombre.
 
-##  Vista previa
-![Vista previa de Amigo Secreto](https://dallasacuna-123.github.io/amigo-secreto/)
-
-##  Estructura del proyecto
